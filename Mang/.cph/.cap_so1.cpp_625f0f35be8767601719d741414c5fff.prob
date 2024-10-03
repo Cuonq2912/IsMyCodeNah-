@@ -1,0 +1,1 @@
+{"name":"Local: cap_so1","url":"d:\\C++\\manguon\\mang\\cap_so1.cpp","tests":[{"id":1712506680279,"input":"5\n1 2 3 1 2\n3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\manguon\\mang\\cap_so1.cpp","group":"local","local":true}

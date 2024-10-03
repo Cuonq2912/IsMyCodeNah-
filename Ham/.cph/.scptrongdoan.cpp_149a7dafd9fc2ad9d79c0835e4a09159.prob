@@ -1,0 +1,1 @@
+{"name":"Local: scptrongdoan","url":"d:\\C++\\manguon\\ham\\scptrongdoan.cpp","tests":[{"id":1712161198914,"input":"10 20","output":"16"},{"id":1712161208673,"input":"1 1234","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\manguon\\ham\\scptrongdoan.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: B14_Gcd","url":"d:\\C++\\manguon\\mang\\B14_Gcd.cpp","tests":[{"id":1713416942732,"input":"12\n994626 994448 996697 995790 999692 993222 991431 999038 997163 990016\n993004 990549","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\manguon\\mang\\B14_Gcd.cpp","group":"local","local":true}

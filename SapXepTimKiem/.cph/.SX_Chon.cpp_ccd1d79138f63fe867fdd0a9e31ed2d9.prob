@@ -1,0 +1,1 @@
+{"name":"Local: SX_Chon","url":"d:\\C++\\Ma_Nguon\\SapXepTimKiem\\SX_Chon.cpp","tests":[{"id":1720445046387,"input":"6\n6 5 4 3 2 1","output":""},{"id":1720445155156,"input":"10\n35 6 56 35 65 87 42 765 87 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Ma_Nguon\\SapXepTimKiem\\SX_Chon.cpp","group":"local","local":true}

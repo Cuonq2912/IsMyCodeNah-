@@ -1,0 +1,1 @@
+{"name":"Local: B3_tao_email","url":"d:\\C++\\Ma_Nguon\\String\\B3_tao_email.cpp","tests":[{"id":1721745055262,"input":"2\nNGUYEN VAN MANH\nNGUYEN thi THUY LINH","output":""},{"id":1721745120582,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\Ma_Nguon\\String\\B3_tao_email.cpp","group":"local","local":true}

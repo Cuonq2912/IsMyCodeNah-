@@ -1,0 +1,1 @@
+{"name":"Local: vl9","url":"c:\\Users\\admin\\Desktop\\vonglap\\vl9.cpp","tests":[{"id":1702653372197,"input":"28","output":"6\n1 2 4 7 14 28"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\admin\\Desktop\\vonglap\\vl9.cpp","group":"local","local":true}

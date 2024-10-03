@@ -1,0 +1,1 @@
+{"name":"Local: ifelse_3","url":"c:\\Users\\admin\\Desktop\\iffelse fixx\\ifelse_3.cpp","tests":[{"id":1702516637097,"input":"3455","output":"38"},{"id":1702516657778,"input":"1000000","output":"123"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\admin\\Desktop\\iffelse fixx\\ifelse_3.cpp","group":"local","local":true}

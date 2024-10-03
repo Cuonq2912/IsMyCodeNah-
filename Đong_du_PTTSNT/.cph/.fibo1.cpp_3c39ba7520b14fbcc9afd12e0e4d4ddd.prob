@@ -1,0 +1,1 @@
+{"name":"Local: fibo1","url":"d:\\C++\\manguon\\dongdu, pttsnto\\fibo1.cpp","tests":[{"id":1710060878600,"input":"6","output":""},{"id":1710060973246,"input":"15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\manguon\\dongdu, pttsnto\\fibo1.cpp","group":"local","local":true}

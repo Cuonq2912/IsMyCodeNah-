@@ -1,0 +1,1 @@
+{"name":"Local: vl40","url":"d:\\C++\\manguon\\vonglap\\vl40.cpp","tests":[{"id":1710038660596,"input":"3 13232","output":"0"},{"id":1710038680770,"input":"4 1.2","output":"1.948"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\manguon\\vonglap\\vl40.cpp","group":"local","local":true}

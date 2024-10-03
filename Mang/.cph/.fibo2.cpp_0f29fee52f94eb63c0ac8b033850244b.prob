@@ -1,0 +1,1 @@
+{"name":"Local: fibo2","url":"d:\\C++\\manguon\\mang\\fibo2.cpp","tests":[{"id":1712717263887,"input":"660046610375530309","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\manguon\\mang\\fibo2.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: B1_comparator","url":"d:\\C++\\manguon\\comparator_BinarySearch\\B1_comparator.cpp","tests":[{"id":1717552552873,"input":"10\n23232323 3232342343 4354 52523 52443 325235 6686 67 96 653333","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++\\manguon\\comparator_BinarySearch\\B1_comparator.cpp","group":"local","local":true}

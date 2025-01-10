@@ -1,0 +1,75 @@
+{
+    "workbench.colorTheme": "Bogem's Night Owl",
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "material-icon-theme",
+    "redhat.telemetry.enabled": true,
+    "git.autofetch": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.autoSave": "onFocusChange",
+    "powermode.combo.location": "editor",
+    "powermode.combo.timeout": 20,
+    "powermode.explosions.explosionOrder": "random",
+    "editor.cursorSmoothCaretAnimation": "on",
+    // "background.fullscreen": {
+    //     "images": [
+    //         "https://get.wallhere.com/photo/artwork-digital-art-trees-nature-path-forest-water-flowers-2236778.jpg",
+    //         "file:///path/to/local/file"
+    //     ],
+    //     "opacity": 0.1,
+    //     "size": "cover",
+    //     "position": "center",
+    //     "interval": 0,
+    //     "random": false
+    // },
+    // "editor.cursorBlinking": "expand",
+    // "background.editor": {
+    //     "useFront": true,
+    //     "style": {
+    //         "background-position": "100% 100%",
+    //         "background-size": "auto",
+    //         "opacity": 0.6
+    //     },
+    //     "styles": [
+    //         {},
+    //         {},
+    //         {}
+    //     ],
+    //     "images": [],
+    //     "interval": 0,
+    //     "random": false
+    // },
+    "background.enabled": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "notebook.formatOnCellExecution": true,
+    "notebook.formatOnSave.enabled": true,
+    "tabnine.experimentalAutoImports": true,
+    "settingsSync.ignoredExtensions": [],
+    "C_Cpp.default.customConfigurationVariables": {},
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlayHints.enabled": "off",
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#599ddc2d",
+        "editor.lineHighlightBorder": "#3d7e831f"
+    },
+    "editor.wordWrap": "off",
+    "diffEditor.wordWrap": "off",
+    "editor.guides.indentation": false,
+    "editor.guides.bracketPairs": false,
+    "blockman.n04ColorComboPreset": "Lobelia (Gradients)",
+    "blockman.n28TimeToWaitBeforeRerenderAfterLastChangeEvent": 0.9,
+    "java.completion.favoriteStaticMembers": [
+        "org.junit.Assert.*",
+        "org.junit.Assume.*",
+        "org.junit.jupiter.api.Assertions.*",
+        "org.junit.jupiter.api.Assumptions.*",
+        "org.junit.jupiter.api.DynamicContainer.*",
+        "org.junit.jupiter.api.DynamicTest.*",
+        "org.mockito.Mockito.*",
+        "org.mockito.ArgumentMatchers.*",
+        "org.mockito.Answers.*"
+    ],
+    "json.schemas": []
+}
